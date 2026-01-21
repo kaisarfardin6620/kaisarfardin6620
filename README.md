@@ -10,23 +10,23 @@
 
 <!--Header Name-->
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ ᴀʙᴅᴜʟʟᴀʜ ᴋᴀɪsᴀʀ ғᴀʀᴅɪɴ!
-*Digital Craftsman (AI Developer / ML Engineer)*
+*AI Systems Engineer | Backend Architect | MSc Data Science Candidate*
 <br />
 
 <!--Typing Animation-->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=800&lines=AI+Developer+%7C+Machine+Learning+Engineer;Building+Production-Grade+AI+Systems;Deep+Learning+%E2%80%A2+MLOps+%E2%80%A2+Backend+Engineering;Training+%26+Fine-tuning+Models+at+Scale;Deploying+Intelligent+Systems+That+Work" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=800&lines=AI+Systems+Engineer+%7C+Backend+Architect;Building+Scalable+RAG+%26+GenAI+Pipelines;Expert+in+Django%2C+FastAPI%2C+Celery+%26+Redis;Deploying+Multi-Modal+AI+to+Production;Bridging+Research+%26+Real-World+Engineering" alt="Typing SVG" />
 </p>
 
 <!--Start Intro-->
-<p align="left">I am an AI-first engineer and Full Stack Developer with a passion for Python, PyTorch, TensorFlow, FastAPI, Django, Docker, and production-grade ML systems.</p>
+<p align="left">I am an <strong>AI Systems Engineer</strong> specializing in bridging the gap between research models and production systems. With a strong foundation in Computer Science and an ongoing <strong>MSc in Data Science</strong>, I architect scalable backends using <strong>FastAPI, Django, and GraphRAG</strong> that power live, multi-modal applications.</p>
 
-- ✨ Building the future, one AI model at a time
-- 🌱 Currently mastering MLOps, model optimization, and scalable AI infrastructure
-- 🤖 Focused on the complete AI lifecycle: Data → Model → Training → Deployment → Production
-- 💻 Combining deep learning expertise with robust backend engineering
-- ❤️ Contributing to Open Source AI projects
-- 🚀 Visit my [Portfolio](https://kaisarfardin6620.github.io) for more details about me
+- 🚀 Architecting asynchronous AI pipelines with **Celery & Redis**
+- 🧠 Implementing **Hybrid RAG** systems using **Neo4j & Vector DBs**
+- 👁️ Building Biometric Computer Vision engines with **MediaPipe**
+- ⚡ Integrating Real-Time AI interaction via **WebSockets**
+- ☁️ Deploying fault-tolerant microservices on **Docker & Nginx**
+- 🚀 Visit my [Portfolio](https://kaisarfardin6620.github.io) to see my live apps
 <!--End Intro-->
 
 <!--Profile Count Badge-->
@@ -58,22 +58,20 @@
 
 </div>
 
-<h3 align="left">🤖 Artificial Intelligence & Machine Learning</h3>
+<h3 align="left">🤖 Advanced AI & RAG Engineering</h3>
 <ul align="left">
-  <li><strong>Model Training & Fine-tuning</strong> — Custom models for specific domains with transfer learning</li>
-  <li><strong>ML Pipeline Architecture</strong> — End-to-end automation and orchestration using MLflow & Kubeflow</li>
-  <li><strong>AI Deployment & Optimization</strong> — Production-ready inference systems with TensorRT & ONNX</li>
-  <li><strong>AI-Powered Backend Services</strong> — Intelligent REST & GraphQL APIs with real-time predictions</li>
-  <li><strong>Computer Vision & NLP</strong> — Building state-of-the-art vision and language models</li>
+  <li><strong>GraphRAG Systems</strong> — Merging Vector Search (Pinecone) with Knowledge Graphs (Neo4j) for explainable AI.</li>
+  <li><strong>GenAI Pipelines</strong> — Orchestrating Text-to-Image-to-Audio workflows using GPT-4o, DALL-E 3, and ElevenLabs.</li>
+  <li><strong>Computer Vision</strong> — Building biometric analysis engines using MediaPipe, OpenCV, and NumPy.</li>
+  <li><strong>Verification Pipelines</strong> — Implementing Natural Language Inference (NLI) to verify LLM claims against ground truth.</li>
 </ul>
 
-<h3 align="left">⚙️ Backend & Infrastructure Engineering</h3>
+<h3 align="left">⚙️ Scalable Backend Architecture</h3>
 <ul align="left">
-  <li><strong>Scalable API Systems</strong> — High-throughput microservices handling millions of requests</li>
-  <li><strong>Server Optimization & Security</strong> — Performance tuning, load balancing, and system hardening</li>
-  <li><strong>Containerized Deployment</strong> — Docker, Kubernetes, and orchestration at scale</li>
-  <li><strong>CI/CD & Automation</strong> — GitHub Actions, Jenkins, and streamlined DevOps pipelines</li>
-  <li><strong>Cloud & Infrastructure</strong> — AWS, GCP, Digital Ocean for production AI workloads</li>
+  <li><strong>Asynchronous Orchestration</strong> — Handling heavy compute loads using Celery Chains, Groups, and Redis message brokers.</li>
+  <li><strong>Real-Time Systems</strong> — Building low-latency chat and notification systems using Django Channels (WebSockets).</li>
+  <li><strong>High-Performance APIs</strong> — Developing production-grade REST endpoints with FastAPI and Nginx reverse proxies.</li>
+  <li><strong>System Reliability</strong> — Implementing rate-limiting, caching strategies, and fault-tolerant retry mechanisms.</li>
 </ul>
 
 <br />
@@ -121,7 +119,7 @@
 <!--Mission Section-->
 <h2 align="center">🎯 Mɪssɪᴏɴ 🎯</h2>
 <p align="center">
-  <em>"To become a top-tier AI Engineer capable of owning the entire lifecycle of intelligent systems — from research & modeling to production & scale."</em>
+  <em>"To engineer the infrastructure that makes Artificial Intelligence reliable, explainable, and scalable for real-world production use."</em>
 </p>
 
 <br />
@@ -168,7 +166,7 @@
 
 <div align="center">
   
-  ### 🔥 *Always building. Always learning. Always shipping.* 🔥
+  ### 🔥 *Architecting Systems. Deploying Intelligence. Shipping Products.* 🔥
   
   <em>"The best way to predict the future is to build it."</em>
   
