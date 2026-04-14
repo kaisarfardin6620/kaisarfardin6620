@@ -26,7 +26,7 @@
 - 👁️ Building Biometric Computer Vision engines with **MediaPipe**
 - ⚡ Integrating Real-Time AI interaction via **WebSockets**
 - ☁️ Deploying fault-tolerant microservices on **Docker & Nginx**
-- 🚀 Visit my [Portfolio](https://kaisarfardin6620.github.io) to see my live apps
+- 🚀 Visit my [Portfolio]([https://kaisarfardin6620.github.io](https://portofolio-rho-five-62.vercel.app/)) to see my live apps
 <!--End Intro-->
 
 <!--Profile Count Badge-->
